@@ -12,8 +12,8 @@ The search of this report is to make an analysis on the data gathered in tests o
   
 # Running
 To start it is necessary to open a new window in the operating system finalization and write:
-1- make
-2- ./a.out
+- make
+- ./a.out
 
  # Authors
 - José Ceciliano Granados
