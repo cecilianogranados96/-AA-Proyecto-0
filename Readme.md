@@ -1,5 +1,4 @@
- # Project
-Old-fashioned multiplication.
+ # Old-fashioned multiplication.
 
 
 The search of this report is to make an analysis on the data gathered in tests of how long does it take for a computer to do different multiplication versions by a certain number of times, always with the same random numbers.
